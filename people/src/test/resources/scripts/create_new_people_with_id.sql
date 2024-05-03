@@ -1,0 +1,1 @@
+INSERT INTO PEOPLE(id, nome) VALUES (9999, 'Jorge');

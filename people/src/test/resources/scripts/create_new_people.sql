@@ -1,0 +1,1 @@
+INSERT INTO people(nome) VALUES('João', '1994-05-20');
